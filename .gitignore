@@ -1,5 +1,2 @@
 .idea
-./out
-/out/production/DataStructuresUsingJava/.gitignore
-/out/production/DataStructuresUsingJava/datastructures/Arrays.class
-/out/production/DataStructuresUsingJava/README.md
+/out/
